@@ -33,3 +33,18 @@ https://github.com/laercioskt/ulauncher-kv
 # Add Translate to ULauncher
 https://github.com/manahter/ulauncher-translate
 
+# Add Lastpass to ULauncher
+https://github.com/brpaz/ulauncher-lastpass
+
+# Install software-properties-common
+sudo apt install software-properties-common
+
+# Install Python if not installed (option 1)
+https://phoenixnap.com/kb/how-to-install-python-3-ubuntu
+
+# Install pip3 on Ubuntu
+https://www.educative.io/edpresso/installing-pip3-in-ubuntu
+
+# Add Kill to ULauncher
+https://github.com/Ulauncher/ulauncher-kill
+
