@@ -48,3 +48,6 @@ https://www.educative.io/edpresso/installing-pip3-in-ubuntu
 # Add Kill to ULauncher
 https://github.com/Ulauncher/ulauncher-kill
 
+# Install Insync
+
+# 
