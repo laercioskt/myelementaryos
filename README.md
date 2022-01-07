@@ -58,4 +58,9 @@ https://www.linuxhowto.net/top-14-things-to-do-after-installing-elementary-os-6-
 
 PS.: The expression `$(lsb_release -cs)` return `jolnir` for elementary os 6.1 and should be changed to `focal`.
 
-# 
+# Install baobab
+sudo apt install baobab
+
+# Install Shutter
+https://itsfoss.com/install-shutter-ubuntu/
+
