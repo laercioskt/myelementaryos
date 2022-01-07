@@ -50,4 +50,12 @@ https://github.com/Ulauncher/ulauncher-kill
 
 # Install Insync
 
-# 
+# Install Docker
+https://docs.docker.com/engine/install/ubuntu/
+
+# Install complements (2, 3, 11, 13, 14, 
+https://www.linuxhowto.net/top-14-things-to-do-after-installing-elementary-os-6-odin/
+
+PS.: The expression `$(lsb_release -cs)` return `jolnir` for elementary os 6.1 and should be changed to `focal`.
+
+
