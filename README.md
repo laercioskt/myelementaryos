@@ -64,3 +64,5 @@ sudo apt install baobab
 # Install Shutter
 https://itsfoss.com/install-shutter-ubuntu/
 
+# Configure fingerprint
+https://elementaryos.stackexchange.com/questions/28318/how-can-i-sign-in-with-my-fingerprint-on-elementary-os-6-odin
